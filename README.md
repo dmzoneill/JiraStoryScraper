@@ -1,5 +1,9 @@
 # Jira Story Scraper
 
+<p align="center">
+  <img src=".github/logo.png" alt="JiraStoryScraper logo" width="128" />
+</p>
+
 A Windows desktop tool, titled Jira Story Fetcher, that pulls the Jira
 stories assigned to a list of people.
 
